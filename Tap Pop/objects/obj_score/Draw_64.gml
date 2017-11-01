@@ -10,4 +10,4 @@ if (obj_variables.day = false)
 {
 draw_set_color(c_white)
 }
-draw_text(50, 50, string("Score: ") + string(scr));
+draw_text(30, 20, string("Score: ") + string(scr));
