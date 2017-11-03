@@ -1,8 +1,4 @@
-/// @description Execute Code
-
-
-
-
+//spawner
 if ( spanned = false ){
 	alarm[0] = room_speed - rate;
 	rate += .3;
