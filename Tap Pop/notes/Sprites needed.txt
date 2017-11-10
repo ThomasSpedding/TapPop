@@ -1,4 +1,4 @@
-- Vector lay button
+- Vector play button
 
 - Vector shop icon
 

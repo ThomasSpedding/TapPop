@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "9eabe3d8-2f00-4b82-95a0-5be9d6d7d9be",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
             "Key": "a1a7e7ca-04fa-4cd3-8d6a-d8ffb2c4546c",
             "Value": {
                 "id": "7eb9ffe5-3206-41d4-963b-2013c958e8c4",
