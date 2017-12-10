@@ -327,6 +327,22 @@
             }
         },
         {
+            "Key": "9568e146-b894-4eb2-a435-7c729cfdc91d",
+            "Value": {
+                "id": "c3937923-1459-4e41-bb47-08af2fdcb8b5",
+                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9fdee7d7-86a7-4492-991f-376f25ed9dfa",
+            "Value": {
+                "id": "aac343bf-5387-49b9-974b-781b9d060460",
+                "resourcePath": "sprites\\spr_shop_cart\\spr_shop_cart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "9eabe3d8-2f00-4b82-95a0-5be9d6d7d9be",
