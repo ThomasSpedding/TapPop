@@ -12,7 +12,8 @@
         "6f1c9db9-ed49-4c69-b8a4-a6df0100a736",
         "3a90170e-c8b7-43c0-8d17-7d00783cb655",
         "68f9f051-4b59-458f-bd6d-7cdd66a8e9f5",
-        "d9ba3d94-b76c-4927-b665-6c7d1de75a6e"
+        "d9ba3d94-b76c-4927-b665-6c7d1de75a6e",
+        "308178fd-bc91-4dae-9da8-b78246fdd481"
     ],
     "filterType": "GMObject",
     "folderName": "GUI Buttons",

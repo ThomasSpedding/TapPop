@@ -14,7 +14,8 @@
         "c8244a93-268a-440a-8973-e2792e0b5575",
         "c17699a4-4c65-47e2-a559-a111ff7d1dd2",
         "25f45a1a-123a-41da-8562-52271d3011a5",
-        "9fdee7d7-86a7-4492-991f-376f25ed9dfa"
+        "9fdee7d7-86a7-4492-991f-376f25ed9dfa",
+        "ef1e3120-e57a-49a1-8a02-2e4b1ba066d2"
     ],
     "filterType": "GMSprite",
     "folderName": "clickable",
