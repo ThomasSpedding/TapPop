@@ -146,7 +146,7 @@
             "Key": "4fac7b2e-ee7b-4d53-bf0a-f410adb79857",
             "Value": {
                 "id": "61f60003-bdc7-4be9-a1f7-abbba034b8fe",
-                "resourcePath": "fonts\\fnt_one\\fnt_one.yy",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "80d946ca-7e87-4101-96e9-3537fc42016a",
-            "Value": {
-                "id": "fd77c4c5-7dfe-45e2-9ae3-25d7f58df550",
-                "resourcePath": "rooms\\rm_options\\rm_options.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "80fee8e2-fe78-45e8-8c50-530232313e46",
             "Value": {
                 "id": "00919914-b9e5-4014-8b85-5b53679fe138",
@@ -343,6 +335,14 @@
             }
         },
         {
+            "Key": "9ef9b573-bc75-4968-9687-87871757b883",
+            "Value": {
+                "id": "6669d979-a1ef-42af-8210-0392348faaf7",
+                "resourcePath": "fonts\\fnt_hscore\\fnt_hscore.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "9fdee7d7-86a7-4492-991f-376f25ed9dfa",
             "Value": {
                 "id": "aac343bf-5387-49b9-974b-781b9d060460",
@@ -388,14 +388,6 @@
                 "id": "95fd1810-25aa-43b3-b2f8-3ed033497b22",
                 "resourcePath": "views\\ad2f9e03-e93f-4558-9ab7-bb3b5c0972da.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ad534658-913e-4322-ad04-60f55f79ce63",
-            "Value": {
-                "id": "1b5bff1c-1a9a-481e-b442-54ffe3554dd9",
-                "resourcePath": "objects\\obj_options_menu\\obj_options_menu.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -452,6 +444,14 @@
                 "id": "b1550f28-4e6e-4a2e-b2b2-14a14396e9ed",
                 "resourcePath": "sprites\\spr_day\\spr_day.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c8812a2a-bf56-4aab-9a4e-76592c02853d",
+            "Value": {
+                "id": "e0800bf5-6c55-40ca-8a60-ea7fdfd2a967",
+                "resourcePath": "objects\\obj_lose_controller\\obj_lose_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
