@@ -2,6 +2,9 @@ if ( paused = false ){
 	instance_deactivate_all(true);
 	instance_activate_object(obj_score);
 	instance_activate_object(obj_variables);
+	//instance_activate_object(obj_assist);
+	//instance_activate_object(obj_hour);
+	//instance_activate_object(obj_bomb);
 	paused = true;
 	instance_create_layer( 0 + 200, room_height - 200, "Instances", obj_back_button );
 	instance_create_layer( room_width*0.4, room_height*.4, "Instances",obj_day);
