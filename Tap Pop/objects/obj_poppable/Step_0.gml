@@ -4,12 +4,6 @@ if ( big = false){
 	image_alpha += 0.01;
 }
 
-
-
-
-
-
-
 if (obj_variables.day = true)
 {
 	image_index = 0;	
