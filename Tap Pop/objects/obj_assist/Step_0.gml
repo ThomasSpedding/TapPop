@@ -1,4 +1,3 @@
-
 if (obj_variables.day = true)
 {
 	image_index = 1;	
