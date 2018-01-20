@@ -1,2 +1,3 @@
-badspawn = false;
-alarm[5] = 290;
+
+badspawn = true;
+playing = false; 

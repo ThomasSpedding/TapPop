@@ -1,5 +1,7 @@
-if (badspawn = true)
-{
-scr_spawner_bad();
-alarm[5] = 290;
+if (playing=true){
+	if (badspawn = true)
+	{
+		scr_gold();
+		alarm[5] = 5;
+	}
 }

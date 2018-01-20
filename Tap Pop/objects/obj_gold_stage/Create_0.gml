@@ -1,0 +1,1 @@
+scr = obj_score.bonus_points;
