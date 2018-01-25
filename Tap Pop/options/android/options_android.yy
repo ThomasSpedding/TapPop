@@ -11,7 +11,6 @@
     "option_android_compile_sdk": 23,
     "option_android_device_support": 0,
     "option_android_display_name": "TAP POP",
-    "option_android_enable_amazon_apis": false,
     "option_android_facebook_app_display_name": "",
     "option_android_facebook_id": "",
     "option_android_gamepad_support": true,
@@ -37,9 +36,9 @@
     "option_android_orient_landscape_flipped": true,
     "option_android_orient_portrait": false,
     "option_android_orient_portrait_flipped": false,
-    "option_android_package_company": "company",
+    "option_android_package_company": "alisarsolutions",
     "option_android_package_domain": "com",
-    "option_android_package_product": "game",
+    "option_android_package_product": "tappop",
     "option_android_permission_bluetooth": false,
     "option_android_permission_internet": true,
     "option_android_permission_network_state": false,
@@ -54,6 +53,7 @@
     "option_android_splash_screens_portrait": "${base_options_dir}\\android\\splash\\portrait.png",
     "option_android_splash_time": 3,
     "option_android_support_lib": "23.1.1",
+    "option_android_sync_amazon": false,
     "option_android_target_sdk": 23,
     "option_android_texture_page": "2048x2048",
     "option_android_tv_banner": "${base_options_dir}\\android\\tv_banner.png",
@@ -61,7 +61,7 @@
     "option_android_use_facebook": false,
     "option_android_version": {
         "build": 0,
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "revision": 0
     }

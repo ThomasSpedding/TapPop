@@ -10,5 +10,7 @@ if (obj_spawn_control.slowed = false){
 }
 alarm[0] = time;
 big = false;
+bomb_destroyed = false;
+assist_destroyed = false;
 //the below variable is for the sound
  

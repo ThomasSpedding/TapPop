@@ -1,7 +1,5 @@
-if (obj_variables.h_score < scr)
-{ 
-obj_variables.h_score = scr
-}
+
+global.scr = scr;
 global.tapped = tapped; 
 global.assist_count = assist_count;
 global.bomb_count = bomb_count;

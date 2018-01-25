@@ -8,7 +8,8 @@
         "a1a7e7ca-04fa-4cd3-8d6a-d8ffb2c4546c",
         "f3fcc849-1504-42b9-bb70-356938bf4158",
         "0ce0ff04-ae59-4f5b-8209-ab60e3edbf21",
-        "529663da-c3d2-4722-b419-9543a8289845"
+        "529663da-c3d2-4722-b419-9543a8289845",
+        "844dc401-c158-4ad5-9c24-9a789218d5dd"
     ],
     "filterType": "GMSprite",
     "folderName": "Players",

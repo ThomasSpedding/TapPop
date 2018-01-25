@@ -9,3 +9,5 @@ bomb_count = 0;
 time_count = 0;
 bonus_points = 0;
 
+triger = false;
+

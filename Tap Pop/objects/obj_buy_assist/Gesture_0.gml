@@ -1,4 +1,4 @@
-if (obj_variables.money >= 1 ){
-	obj_variables.money -= 1; 
+if (obj_variables.money >= 200 ){
+	obj_variables.money -= 200; 
 	obj_variables.assist += 1; 
 }

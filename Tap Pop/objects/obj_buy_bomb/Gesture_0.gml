@@ -1,4 +1,4 @@
-if (obj_variables.money >= 1 ){
-	obj_variables.money -= 1; 
+if (obj_variables.money >= 600 ){
+	obj_variables.money -= 600; 
 	obj_variables.bomb += 1; 
 }
