@@ -11,10 +11,4 @@ assist  = ini_read_real("Variables","assist",0);
 bomb  = ini_read_real("Variables","bomb",0);
 hour  = ini_read_real("Variables","hour",0);
 canpop = ini_read_real("Variables","canpop",true);
-
 ini_close();
-
-
-
-
-
