@@ -1,0 +1,2 @@
+badspawn = true;
+

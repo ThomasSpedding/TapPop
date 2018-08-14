@@ -1,0 +1,1 @@
+obj_info_controller.mode -= 1;

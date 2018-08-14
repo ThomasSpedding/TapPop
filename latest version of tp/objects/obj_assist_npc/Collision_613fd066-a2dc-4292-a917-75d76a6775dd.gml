@@ -1,0 +1,1 @@
+obj_score.assist_count +=1;

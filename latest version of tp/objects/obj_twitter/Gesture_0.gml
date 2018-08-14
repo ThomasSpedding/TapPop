@@ -1,0 +1,1 @@
+url_open("https://twitter.com/intent/tweet?text=Check out this awesome new game! Try and beat my high score " + string(obj_variables.h_score) + "  &hashtags=TAPPOP");

@@ -1,0 +1,3 @@
+
+badspawn = true;
+playing = false; 
