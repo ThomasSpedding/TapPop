@@ -8,7 +8,7 @@ rate = spawnspeed - ((global.target_scr+1)/50);
 alarm[0] = rate;
 
 ms = 1;
-
+global.targetTappedTotall = 0 ;
 global.to_tap = 0;
 
 change_col = spawnspeed - ((global.target_scr+1)/50);

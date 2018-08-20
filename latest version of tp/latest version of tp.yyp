@@ -661,7 +661,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_poppable_target1\/obj_poppable_target1.yy",
+                "resourcePath": "objects\/obj_poppable_target2\/obj_poppable_target2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1350,25 +1350,6 @@
             }
         },
         {
-            "Key": "58be9dd5-9f0e-4fed-b3f0-67fed63f23c2",
-            "Value": {
-                "id": "a20749a8-45a7-4f3f-8d60-54b126a34424",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "views\/58be9dd5-9f0e-4fed-b3f0-67fed63f23c2.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "59c7dea1-dc8d-45f4-a767-39f31f8b00e4",
             "Value": {
                 "id": "7aa5238d-ee14-42e0-b222-38bd22508c66",
@@ -1402,7 +1383,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_poppable_target\/obj_poppable_target.yy",
+                "resourcePath": "objects\/obj_poppable_target1\/obj_poppable_target1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1440,7 +1421,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_poppable_target5\/obj_poppable_target5.yy",
+                "resourcePath": "objects\/obj_poppable_target6\/obj_poppable_target6.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1573,7 +1554,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_poppable_target3\/obj_poppable_target3.yy",
+                "resourcePath": "objects\/obj_poppable_target4\/obj_poppable_target4.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1668,7 +1649,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_poppable_target2\/obj_poppable_target2.yy",
+                "resourcePath": "objects\/obj_poppable_target3\/obj_poppable_target3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2675,7 +2656,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_poppable_target4\/obj_poppable_target4.yy",
+                "resourcePath": "objects\/obj_poppable_target5\/obj_poppable_target5.yy",
                 "resourceType": "GMObject"
             }
         },
