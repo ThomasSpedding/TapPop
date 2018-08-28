@@ -2129,25 +2129,6 @@
             }
         },
         {
-            "Key": "92e359f8-e3c0-4050-b527-a5f779ed8fc8",
-            "Value": {
-                "id": "fabec2ef-cb21-42ae-a189-7f2dce60a282",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "views\/92e359f8-e3c0-4050-b527-a5f779ed8fc8.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "9513d9aa-8e8e-401e-a470-b54f9d31bee2",
             "Value": {
                 "id": "bea5bbb7-b89c-4f38-bd63-73dbe8437447",
