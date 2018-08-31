@@ -1,1 +1,1 @@
-scr = obj_score.bonus_points;
+scr = global.tempSave5;

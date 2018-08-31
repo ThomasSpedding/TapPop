@@ -12,20 +12,23 @@ draw_set_color(c_black);
 draw_set_font(fnt_hscore);
 //draw_text(global.cgvw*0.2, global.cgvh*.8, "Total: ");
 draw_set_font(fnt_gold);
-if (obj_variables.h_score < scr){
-draw_text(global.cgvw*0.65,global.cgvh*.15,"NEW HIGH");
-draw_text(global.cgvw*0.65,global.cgvh*.28,"SCORE!!!");
-draw_text(global.cgvw*0.65,global.cgvh*.41,string(scr));
-} else {
-draw_text(global.cgvw*0.65,global.cgvh*.15,"Score");
-draw_text(global.cgvw*0.65,global.cgvh*.28,string(scr));
 
+
+if (global.timesPlayed = 2){
+	if (obj_variables.h_score < global.tempSave6){
+	draw_text(global.cgvw*0.5,global.cgvh*.4,"NEW HIGH");
+	draw_text(global.cgvw*0.5,global.cgvh*.5,"SCORE!!!");
+	draw_text(global.cgvw*0.5,global.cgvh*.6,string(global.tempSave6));
+	} else {
+	draw_text(global.cgvw*0.5,global.cgvh*.4,"Score");
+	draw_text(global.cgvw*0.5,global.cgvh*.6,string(global.tempSave6));
+	}
 }
 draw_set_font(fnt_lose);
-draw_text(global.cgvw*0.2, global.cgvh*.2, string(tapped));
-draw_text(global.cgvw*0.2, global.cgvh*.4, string(assist_count));
-draw_text(global.cgvw*0.2, global.cgvh*.6, string(bomb_count));
-draw_text(global.cgvw*0.2, global.cgvh*.8, string(time_count));
+draw_text(global.cgvw*0.2, global.cgvh*.2, string(global.tempSave1));
+draw_text(global.cgvw*0.2, global.cgvh*.4, string(global.tempSave3));
+draw_text(global.cgvw*0.2, global.cgvh*.6, string(global.tempSave2));
+draw_text(global.cgvw*0.2, global.cgvh*.8, string(global.tempSave4));
 //draw_text(room_width*0.2, room_height*.67, string(bonus_points));
 draw_set_font(fnt_hscore);
 //draw_text(room_width*0.2, room_height*.8,  string(points));
@@ -42,21 +45,21 @@ draw_set_color(c_white);
 //draw_text(room_width*0.2, room_height*.67, "Bonus Points: ");
 draw_set_font(fnt_hscore);
 //draw_text(global.cgvw*0.2, global.cgvh*.8, "Total: ");
-draw_set_font(fnt_gold);
-if (obj_variables.h_score < scr){
-draw_text(global.cgvw*0.65,global.cgvh*.15,"NEW HIGH");
-draw_text(global.cgvw*0.65,global.cgvh*.28,"SCORE!!!");
-draw_text(global.cgvw*0.65,global.cgvh*.41,string(scr));
-} else {
-draw_text(global.cgvw*0.65,global.cgvh*.15,"Score");
-draw_text(global.cgvw*0.65,global.cgvh*.28,string(scr));
-
+if (global.timesPlayed = 2){
+	if (obj_variables.h_score < global.tempSave6){
+	draw_text(global.cgvw*0.5,global.cgvh*.4,"NEW HIGH");
+	draw_text(global.cgvw*0.5,global.cgvh*.5,"SCORE!!!");
+	draw_text(global.cgvw*0.5,global.cgvh*.6,string(global.tempSave6));
+	} else {
+	draw_text(global.cgvw*0.5,global.cgvh*.4,"Score");
+	draw_text(global.cgvw*0.5,global.cgvh*.6,string(global.tempSave6));
+	}
 }
 draw_set_font(fnt_lose);
-draw_text(global.cgvw*0.2, global.cgvh*.2, string(tapped));
-draw_text(global.cgvw*0.2, global.cgvh*.4, string(assist_count));
-draw_text(global.cgvw*0.2, global.cgvh*.6, string(bomb_count));
-draw_text(global.cgvw*0.2, global.cgvh*.8, string(time_count));
+draw_text(global.cgvw*0.2, global.cgvh*.2, string(global.tempSave1));
+draw_text(global.cgvw*0.2, global.cgvh*.4, string(global.tempSave3));
+draw_text(global.cgvw*0.2, global.cgvh*.6, string(global.tempSave2));
+draw_text(global.cgvw*0.2, global.cgvh*.8, string(global.tempSave4));
 //draw_text(room_width*0.2, room_height*.67, string(bonus_points));
 draw_set_font(fnt_hscore);
 //draw_text(room_width*0.2, room_height*.8,  string(points));

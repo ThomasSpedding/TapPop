@@ -1,1 +1,1 @@
-obj_score.bonus_points += times;
+global.tempSave5 += times;

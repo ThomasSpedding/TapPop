@@ -1,5 +1,5 @@
 //spawner
-total = obj_score.scr; 
+total = global.tempSave6; 
 if (playing = true){
 	if ( spanned = false ){
 		alarm[0] = room_speed - rate;

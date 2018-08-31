@@ -15,27 +15,27 @@ draw_set_halign(fa_center);
 if (obj_shop_icon.pos = false){
 	if (mySprite = 1)
 	{
-	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.8), "Classic");
+	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.52), "Classic");
 	}
 
 	if (mySprite = 2)
 	{
-	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.8), "Arcade");
+	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.52), "Arcade");
 	}
 
 	if (mySprite = 3)
 	{
-	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.8), "Timer");
+	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.52), "Timer");
 	}
 
 	if (mySprite = 4)
 	{
-	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.8), "Target");
+	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.52), "Target");
 	}
 
 	if (mySprite = 5)
 	{
-	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.8), "Fall");
+	draw_text(cgvx + (cgvw*0.5), cgvy + (cgvh*0.52), "Fall");
 	}
 }
 

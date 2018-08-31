@@ -1,1 +1,1 @@
-obj_score.assist_count +=1;
+global.tempSave3 +=1;

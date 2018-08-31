@@ -8,3 +8,4 @@ global.tempSave2 = 0;
 global.tempSave3 = 0;
 global.tempSave4 = 0; 
 global.tempSave5 = 0; 
+global.tempSave6 = 0; 

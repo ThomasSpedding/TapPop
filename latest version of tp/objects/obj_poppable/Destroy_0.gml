@@ -1,5 +1,5 @@
-obj_score.scr += 1;
-obj_score.tapped +=1;
+global.tempSave6 += 1;
+global.tempSave1 +=1;
 
 if (bomb_destroyed = true)
 {
@@ -63,5 +63,5 @@ if (bomb_destroyed = true)
 	}
 }	
 if (obj_spawn_control.slowed = true){
-	obj_score.time_count +=1;
+	global.tempSave4 +=1;
 }

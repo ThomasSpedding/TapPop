@@ -172,25 +172,6 @@
             }
         },
         {
-            "Key": "07357573-503a-4c06-80db-28889ce115cf",
-            "Value": {
-                "id": "c9007edf-805a-428e-a6e7-dfaeec669c45",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_twitter\/obj_twitter.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0ce0ff04-ae59-4f5b-8209-ab60e3edbf21",
             "Value": {
                 "id": "c570a01a-93a0-44c4-864a-28606d020eaf",
@@ -321,6 +302,25 @@
                 ],
                 "resourcePath": "sprites\/spr_question_mark\/spr_question_mark.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "142e18bf-7a14-4dac-a363-2662264221d2",
+            "Value": {
+                "id": "f994eaac-ebb6-4819-8097-e029103e673a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scrText\/scrText.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -478,7 +478,7 @@
         {
             "Key": "1dbd092b-cffb-4e97-9128-57ebeff8a25e",
             "Value": {
-                "id": "988eb541-1072-4e81-90ce-3b0aad5c07d4",
+                "id": "3d63433a-c679-41fa-9903-535f4175b216",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -853,6 +853,25 @@
                 ],
                 "resourcePath": "objects\/obj_assist_npc\/obj_assist_npc.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "385e16b9-ee4a-49b0-a5bf-3ad91f86ce47",
+            "Value": {
+                "id": "056176a9-46be-4dca-aef9-1088d762b9ca",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "extensions\/MoPubExtension\/MoPubExtension.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
@@ -1426,6 +1445,25 @@
             }
         },
         {
+            "Key": "5cc98270-383b-43ba-9863-dc0722c27eb0",
+            "Value": {
+                "id": "ff6fa25d-f849-4dc1-912d-554312e134db",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "extensions\/GooglePlayLicensingAsExt\/GooglePlayLicensingAsExt.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
             "Key": "5e01eabd-5715-458d-aeff-f8d042fe2448",
             "Value": {
                 "id": "553eec05-c48a-4ad3-9da1-629aa63430d4",
@@ -1996,25 +2034,6 @@
             }
         },
         {
-            "Key": "862aa588-a628-426a-b932-fbb2b42435d5",
-            "Value": {
-                "id": "a9785767-6f66-4cee-bc0c-38686ab04f1a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "notes\/Sprites needed.yy",
-                "resourceType": "GMNotes"
-            }
-        },
-        {
             "Key": "89d66dd0-dc89-4553-a23d-16b72b77e853",
             "Value": {
                 "id": "eb2e9593-7d29-4ccd-8424-762d63037659",
@@ -2373,25 +2392,6 @@
                 ],
                 "resourcePath": "sprites\/spr_high_score\/spr_high_score.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a703ab5c-860b-4eb3-a83e-298603cb17fd",
-            "Value": {
-                "id": "32ad00e9-6990-45c4-b0e8-5155ef3624c8",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "notes\/Ideas for the game .yy",
-                "resourceType": "GMNotes"
             }
         },
         {
@@ -3098,6 +3098,25 @@
             }
         },
         {
+            "Key": "caf69ed3-d24e-44cb-81bf-c54378f588ec",
+            "Value": {
+                "id": "6ed116e2-59f1-4b86-ba32-b73a5b34117d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fntSecondChance\/fntSecondChance.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d448f990-b42e-4def-8606-bf77e1329bc1",
@@ -3133,6 +3152,25 @@
                 ],
                 "resourcePath": "objects\/obj_gold1\/obj_gold1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d1ab23a8-b9be-416e-938b-f276ab511d61",
+            "Value": {
+                "id": "f58ee314-a7bd-4033-9373-e9192c808816",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/scr_ads\/scr_ads.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -3418,25 +3456,6 @@
                 ],
                 "resourcePath": "sprites\/spr_poppable_yellow\/spr_poppable_yellow.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e38fc62a-bbe8-4cee-ad70-c64dd7cfe283",
-            "Value": {
-                "id": "5648d660-64ab-4ed1-97ad-3a26893dc0f8",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_facebook\/obj_facebook.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -3896,6 +3915,25 @@
             }
         },
         {
+            "Key": "f90e051e-c7b2-435d-9fad-7d7a6debb164",
+            "Value": {
+                "id": "56214174-7e6a-44c6-856f-8952552c2bcf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "extensions\/GooglePlayServicesExtension\/GooglePlayServicesExtension.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
             "Key": "f93b77ab-cfdb-4548-a081-0648e53f40f6",
             "Value": {
                 "id": "da56b233-340e-43b0-a617-bd62196aae6e",
@@ -3994,13 +4032,15 @@
     "script_order": [
         "133ce46a-2c7a-463a-b799-8061cfb85d21",
         "00a291b9-5df4-4fc2-8f48-52dcdb5a8c56",
+        "be176b4b-420a-472c-a05f-40d628ef7f23",
+        "bfba7157-26cd-4409-bf25-84f048cfe327",
         "72605b08-8987-41f9-8d82-31484862c06e",
         "821864bf-84b4-4df1-acb3-0d62db7c987c",
         "7a34f7d8-8b1a-4b70-b6db-98b37c97f718",
         "d7685177-6a98-4600-b085-ec929e6704bf",
         "63b5c4c4-f773-4ab7-b325-561f75c9dc41",
-        "be176b4b-420a-472c-a05f-40d628ef7f23",
-        "bfba7157-26cd-4409-bf25-84f048cfe327"
+        "d1ab23a8-b9be-416e-938b-f276ab511d61",
+        "142e18bf-7a14-4dac-a363-2662264221d2"
     ],
     "tutorial": ""
 }
