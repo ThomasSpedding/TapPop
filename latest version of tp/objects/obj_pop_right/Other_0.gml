@@ -1,7 +1,7 @@
-if (direction = 315)
+if (direction >= 290 and direction <= 340)
 {
-direction = -315;
-} else if (direction = -315)
+direction = random_range(-290,-340);
+} else if (direction <= -290 and direction >= -340)
 {
-direction = 315;
+direction = random_range(290,340);
 }
