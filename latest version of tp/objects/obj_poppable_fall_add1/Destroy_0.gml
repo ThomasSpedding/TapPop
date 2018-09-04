@@ -17,3 +17,5 @@
 	{
 	audio_play_sound(popping_sound, 0, 0);
 	}
+	
+	global.tempSave6 += 1 ;

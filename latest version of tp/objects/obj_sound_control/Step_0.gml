@@ -26,12 +26,3 @@ if (obj_variables.canpop = true)
 {
 sprite_index = spr_sound_on;
 }
-
-if (room = rm_start_menu)
-{
-x = cgvx + (cgvw*0.93);
-y = cgvy + (cgvh*0.1);
-} else {
-x = cgvx + (cgvw*0.93);
-y = cgvy + (cgvh*0.17);
-}

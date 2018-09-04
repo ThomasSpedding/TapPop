@@ -18,7 +18,7 @@ else if (day = false )
 
 
 
-if GoogleMobileAds_InterstitialStatus() != "Ready"
-{
-	GoogleMobileAds_LoadInterstitial();
-}
+//if GoogleMobileAds_InterstitialStatus() != "Ready"
+//{
+//	GoogleMobileAds_LoadInterstitial();
+//}

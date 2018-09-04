@@ -1,5 +1,4 @@
 instance_destroy(other);
-life -= 1;
 global.tempSave1 +=1;
 global.tempSave2 +=1;
 global.tempSave6 +=1;

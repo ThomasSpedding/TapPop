@@ -13,7 +13,7 @@ assist_destroyed = false;
 bye_bye_cruel_world = 160;
 alarm[1] = bye_bye_cruel_world;
 
-id_ = 0; 
+id_ = noone;
 
 if (id_ = 1) { sprite_index = spr_poppable_red; } 
 else if (id_ = 2) { sprite_index = spr_poppable_yellow; } 

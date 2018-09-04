@@ -8,5 +8,5 @@ if (obj_variables.day = false)
 {
 	image_index = 1;	
 }
-yy = 10 + (global.fall_scr/20);
+yy = 10 + (global.tempSave6/20);
 y += yy;

@@ -12,7 +12,7 @@ if (obj_variables.day = false)
 draw_set_color(c_black);
 }
 
-	draw_text(room_width*.05,20, string("Score: ") + string(global.target_scr));
+	draw_text(room_width*.05,20, string("Score: ") + string(global.tempSave6));
 	draw_text(room_width*0.4, 20, string("Tap the"))
 	draw_text(room_width*0.6, 20, string("Time remaining " + string(target_time) + string(" seconds")))
 	

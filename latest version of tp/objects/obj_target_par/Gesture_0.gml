@@ -1,7 +1,12 @@
-if (global.to_tap = 0)
+if (  id_ = global.to_tap )
 {
-	global.target_scr +=1;
+	global.tempSave2 += 1;
+	global.tempSave6 += 1;
+} else if (id_ != global.to_tap) {
+	global.tempSave6 -= 1;
 }
+global.tempSave1 += 1;
+
 
 	if (obj_variables.canpop = true)
 	{
@@ -22,6 +27,8 @@ if (global.to_tap = 0)
 	{
 	audio_play_sound(popping_sound, 0, 0);
 	}
-global.to_tap = choose(0, 1, 2, 3, 4, 5);
+	
+	global.to_tap = choose(0, 1, 2, 3, 4, 5);
+	
 instance_destroy();
 

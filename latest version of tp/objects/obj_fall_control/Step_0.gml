@@ -1,9 +1,9 @@
 scr_theme_cont();
 
 
-	if (global.fall_scr > global.fall_hs)
+	if (global.tempSave6 > global.fall_hs)
 	{
-	global.fall_hs = global.fall_scr;
+	global.fall_hs = global.tempSave6;
 	}
 	
 	if (global.hits <= 0){
@@ -15,4 +15,4 @@ scr_theme_cont();
 	spawnspd = 5;
 	}
 	
-	spawnspd = (room_speed/2) - (global.fall_scr/50);
+	spawnspd = (room_speed/2) - (global.tempSave6/50);

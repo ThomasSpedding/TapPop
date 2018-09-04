@@ -6,13 +6,13 @@ scr_theme_cont();
 	ms += 1;
 	rate = 5;
 	}
-	rate = spawnspeed - ((global.target_scr+1)/50);
+	rate = spawnspeed - ((global.tempSave6+1)/25);
+	
+
 	
 	
-	if (global.target_scr > global.target_hs)
-	{
-	global.target_hs = global.target_scr;
-	}
+	
+	
 	 if (target_time <= 0)
 	 {
 	 room_goto(rm_lose_target);
