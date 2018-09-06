@@ -1,34 +1,45 @@
 draw_set_font(fnt_score)
-
-if (obj_variables.day = true)
-{
-draw_set_color(c_white);
-draw_sprite_ext(spr_heart, 1, room_width*.50, 40, 0.15, 0.14, 0, c_white, 1);
-draw_text(room_width*.05,20, string("Score: ") + string(global.tempSave6));
-}
-
-if (obj_variables.day = false)
-{
-draw_set_color(c_black);
-draw_sprite_ext(spr_heart, 0, room_width*.50, 40, 0.15, 0.14, 0, c_white, 1);
-draw_text(room_width*.05,20, string("Score: ") + string(global.tempSave6));
-}
-
-
-draw_set_font(fnt_score)
 draw_set_valign(fa_center);
 draw_set_halign(fa_center);
+
 if (obj_variables.day = true)
 {
-draw_set_color(c_black);
-draw_text(room_width*.50,40, string(global.hits));
+	draw_set_color(c_white);
 }
 
 if (obj_variables.day = false)
 {
-draw_set_color(c_white);
-draw_text(room_width*.50,40, string(global.hits));
+	draw_set_color(c_black);
 }
-draw_set_valign(fa_top);
-draw_set_halign(fa_left);
-	image_speed = 0;
+
+draw_text(global.cgvw*.1,global.cgvh*.05, string("Score: ") + string(global.tempSave6));
+
+
+
+
+
+///Draw the hearts
+if (obj_variables.day = true)
+{
+	draw_sprite_ext(spr_heart, 1,global.cgvw*.5,global.cgvh*.05, 0.15, 0.14, 0, c_white, 1);
+}
+
+if (obj_variables.day = false)
+{
+	draw_sprite_ext(spr_heart, 0,global.cgvw*.5,global.cgvh*.05, 0.15, 0.14, 0, c_white, 1);
+}
+
+
+///draw the Score 
+
+
+if (obj_variables.day = true)
+{
+	draw_set_color(c_black);
+}
+
+if (obj_variables.day = false)
+{
+	draw_set_color(c_white);
+}
+draw_text(global.cgvw*.5,global.cgvh*.05, string(global.hits));

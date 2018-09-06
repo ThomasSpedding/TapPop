@@ -21,7 +21,7 @@ if (obj_variables.day = false)
 }
 
 	// Draw the title
-	draw_text(global.cgvw*0.5, global.cgvh*0.1, "Timer mode");
+	draw_text(global.cgvw*0.5, global.cgvh*0.1, "Timer Mode");
 	// draw the tapped score 
 	draw_text(global.cgvw*0.2, global.cgvh*.2, string(global.tempSave1));
 	// draw the +5 

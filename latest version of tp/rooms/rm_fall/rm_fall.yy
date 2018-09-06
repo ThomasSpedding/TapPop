@@ -8,15 +8,15 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "9f47e89a-37d1-4bec-9c43-fc484d5c7d46",
-        "25f71356-f92d-47f0-8605-0f5042969bb4",
-        "cb3913ff-d509-42e3-8fba-a266c036763e"
+        "cb3913ff-d509-42e3-8fba-a266c036763e",
+        "86b40391-6728-4dfa-84ae-7aa670ef12ee"
     ],
     "IsDnD": true,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
-            "id": "f7cc254d-e93d-47b8-bc2b-d27a60fbfb94",
+            "name": "Instances_1",
+            "id": "3394ac9d-9dc6-4ca9-8543-6189729f2eab",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -27,8 +27,33 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+{"name": "inst_BAF4664","id": "86b40391-6728-4dfa-84ae-7aa670ef12ee","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_BAF4664","objId": "68f9f051-4b59-458f-bd6d-7cdd66a8e9f5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1792,"y": 128}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances",
+            "id": "f7cc254d-e93d-47b8-bc2b-d27a60fbfb94",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
 {"name": "inst_F34545B","id": "9f47e89a-37d1-4bec-9c43-fc484d5c7d46","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_F34545B","objId": "335eb04c-ff41-4d5d-ae7a-88a8e0fb0552","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 96,"y": 32},
-{"name": "inst_BF51E9A","id": "25f71356-f92d-47f0-8605-0f5042969bb4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_BF51E9A","objId": "68f9f051-4b59-458f-bd6d-7cdd66a8e9f5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1152,"y": 288},
 {"name": "inst_1183554D","id": "cb3913ff-d509-42e3-8fba-a266c036763e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1183554D","objId": "e1cf5917-1b15-46ca-b47e-4202b2075a19","properties": null,"rotation": 0,"scaleX": 30.41176,"scaleY": 1,"mvc": "1.0","x": 960,"y": 1312}
             ],
             "layers": [
@@ -48,7 +73,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

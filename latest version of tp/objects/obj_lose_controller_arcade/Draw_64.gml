@@ -16,7 +16,7 @@ if (obj_variables.day = false)
 	///draw the spliter sprite 
 	draw_sprite_ext(spr_poppable_break,0,global.cgvw*0.1,global.cgvh*0.6,1.5,1.5,0,image_blend,1);
 	// Draw the title 
-	draw_text(global.cgvw*0.5, global.cgvh*0.1, "Arcade mode");
+	draw_text(global.cgvw*0.5, global.cgvh*0.1, "Arcade Mode");
 	// draw the tapped score 
 	draw_text(global.cgvw*0.2, global.cgvh*.3, string(global.tempSave1));
 	// draw the splitters score 

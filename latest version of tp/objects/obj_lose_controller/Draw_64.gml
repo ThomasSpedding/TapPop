@@ -37,15 +37,10 @@ draw_set_font(fnt_lose);
 
 if (obj_variables.day = false)
 {
-draw_set_color(c_white);
-//draw_text(room_width*0.2, room_height*.15, "Tapped: ");
-//draw_text(room_width*0.2, room_height*.28, "Assistant: ");
-//draw_text(room_width*0.2, room_height*.41, "Bomb: ");
-//draw_text(room_width*0.2, room_height*.54, "Hourglass: ");
-//draw_text(room_width*0.2, room_height*.67, "Bonus Points: ");
-draw_set_font(fnt_hscore);
-//draw_text(global.cgvw*0.2, global.cgvh*.8, "Total: ");
-if (global.timesPlayed = 2){
+	draw_set_color(c_white);
+	draw_set_font(fnt_hscore);
+
+	if (global.timesPlayed = 2){
 	if (obj_variables.h_score < global.tempSave6){
 	draw_text(global.cgvw*0.5,global.cgvh*.4,"NEW HIGH");
 	draw_text(global.cgvw*0.5,global.cgvh*.5,"SCORE!!!");
@@ -66,6 +61,8 @@ draw_set_font(fnt_hscore);
 draw_set_font(fnt_lose);
 } 
 
+// Draw the title 
+	draw_text(global.cgvw*0.5, global.cgvh*0.1, "Classic Mode");
 
 if (obj_variables.day = true)
 {
