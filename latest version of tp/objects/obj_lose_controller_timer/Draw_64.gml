@@ -15,9 +15,9 @@ if (obj_variables.day = false)
 {
 	draw_set_color(c_white);
 	draw_sprite_ext(spr_hand,1,global.cgvw*0.1,global.cgvh*0.2,0.25,0.22,0,image_blend,1);
-	draw_sprite_ext(spr_poppable_add5,1,global.cgvw*0.1,global.cgvh*0.2,1.5,1.5,0,image_blend,1);
-	draw_sprite_ext(spr_poppable_take5,1,global.cgvw*0.1,global.cgvh*0.2,1.5,1.5,0,image_blend,1);
-	draw_sprite_ext(spr_timer,1,global.cgvw*0.1,global.cgvh*0.2,.8,.8,0,image_blend,1);
+	draw_sprite_ext(spr_poppable_add5,1,global.cgvw*0.1,global.cgvh*0.4,1.5,1.5,0,image_blend,1);
+	draw_sprite_ext(spr_poppable_take5,1,global.cgvw*0.1,global.cgvh*0.6,1.5,1.5,0,image_blend,1);
+	draw_sprite_ext(spr_timer,1,global.cgvw*0.1,global.cgvh*0.8,.8,.8,0,image_blend,1);
 }
 
 	// Draw the title
