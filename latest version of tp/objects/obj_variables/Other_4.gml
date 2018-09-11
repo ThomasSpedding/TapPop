@@ -9,3 +9,5 @@ if (room = rm_level) or (room = rm_arcade) or (room = rm_timer) or (room = rm_fa
 
 	GoogleMobileAds_MoveBanner(px,py);
 }
+
+scrUpdateAchievments();
