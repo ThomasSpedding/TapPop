@@ -1,7 +1,7 @@
 draw_set_valign(fa_center);
 draw_set_halign(fa_center); 
 draw_set_font(fnt_lose);
-var size_nuke  =.6;
+var size_nuke  =.45;
 if (obj_variables.day = true)
 {
 	draw_set_color(c_black);

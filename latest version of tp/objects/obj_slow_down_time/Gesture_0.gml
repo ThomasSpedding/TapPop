@@ -14,3 +14,8 @@
 	}
 	
 sprite_index = noone;
+
+	if (obj_variables.canpop = true)
+	{
+	audio_play_sound(snd_time, 0, 0);
+	}
