@@ -16,3 +16,6 @@ scr_theme_cont();
 	}
 	
 	spawnspd = (room_speed/2) - (global.tempSave6/50);
+	
+	/// 5Hearted Achievment 
+	if (global.hits >= 5){ global.achiev_FiveHearted = 1; }

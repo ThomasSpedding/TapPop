@@ -1,4 +1,4 @@
-if ((GoogleMobileAds_InterstitialStatus() == "Ready") and (image_index = 0))
+if ((GoogleMobileAds_InterstitialStatus() == "Ready") )
 {
 	GoogleMobileAds_ShowInterstitial();
 	obj_variable.money += 100;

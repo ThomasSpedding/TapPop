@@ -41,6 +41,9 @@ ini_close();
 scrCamera();
 
 
+
+
+
 GooglePlayServices_Init();
 achievement_login();
 

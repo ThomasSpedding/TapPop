@@ -64,7 +64,7 @@
     "option_android_use_facebook": false,
     "option_android_version": {
         "build": 0,
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "revision": 0
     }
