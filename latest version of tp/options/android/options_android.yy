@@ -12,7 +12,7 @@
     "option_android_build_tools": "26.0.0",
     "option_android_compile_sdk": "26",
     "option_android_device_support": 0,
-    "option_android_display_name": "TAP POP",
+    "option_android_display_name": "Tap Pop",
     "option_android_facebook_app_display_name": "",
     "option_android_facebook_id": "",
     "option_android_gamepad_support": true,

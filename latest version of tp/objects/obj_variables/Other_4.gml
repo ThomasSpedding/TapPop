@@ -11,3 +11,10 @@ if (room = rm_level) or (room = rm_arcade) or (room = rm_timer) or (room = rm_fa
 }
 
 scrUpdateAchievments();
+
+//if os_is_network_connected(){
+//	if (GoogleMobileAds_InterstitialStatus() != "Ready")
+//	{
+//		GoogleMobileAds_LoadInterstitial();
+//	}
+//}
