@@ -19,7 +19,7 @@
     "option_android_gcm_sender_id": "",
     "option_android_google_apk_expansion": true,
     "option_android_google_cloud_saving": true,
-    "option_android_google_enable_licensing": false,
+    "option_android_google_enable_licensing": true,
     "option_android_google_licensing_public_key": "",
     "option_android_google_services": true,
     "option_android_google_services_app_id": "122965293538",

@@ -4,10 +4,10 @@ if (file_exists("saveData.ini")){
 ini_open("saveData.ini");
 day = ini_read_real("Variables","day",true);
 h_score = ini_read_real("Variables","h_score",0);
-money = ini_read_real("Variables","money",100000);
-assist  = ini_read_real("Variables","assist",90);
-bomb  = ini_read_real("Variables","bomb",90);
-hour  = ini_read_real("Variables","hour",90);
+money = ini_read_real("Variables","money",0);
+assist  = ini_read_real("Variables","assist",0);
+bomb  = ini_read_real("Variables","bomb",0);
+hour  = ini_read_real("Variables","hour",0);
 canpop = ini_read_real("Variables","canpop",true);
 global.arcade_hs = ini_read_real("Variables","global.arcade_hs",0);
 global.timer_hs = ini_read_real("Variables","global.timer_hs",0);
@@ -45,6 +45,8 @@ scrCamera();
 
 
 GooglePlayServices_Init();
+
+
 achievement_login();
 
 

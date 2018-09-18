@@ -1,4 +1,6 @@
-if achievement_login_status(){ 
+if achievement_login_status(){
 	achievement_show_leaderboards();
-	show_debug_message("ach");
+	show_debug_message("achachachachachachachachachachachahcahcahachachachac");
+} else {
+	achievement_login();
 }

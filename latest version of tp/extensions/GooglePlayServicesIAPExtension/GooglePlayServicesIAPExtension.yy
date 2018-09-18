@@ -1,8 +1,8 @@
 {
-    "id": "6d0a88f2-4211-4f44-a763-e4ee1d516774",
+    "id": "387fc99b-92ad-4908-9f79-68eae34b27f5",
     "modelName": "GMExtension",
     "mvc": "1.0",
-    "name": "GooglePlayLicensingAsExt",
+    "name": "GooglePlayServicesIAPExtension",
     "IncludedResources": [
         
     ],
@@ -11,19 +11,19 @@
     ],
     "androidProps": true,
     "androidactivityinject": "",
-    "androidclassname": "GooglePlayLicensingAsExt",
+    "androidclassname": "",
     "androidinject": "",
     "androidmanifestinject": "",
     "androidsourcedir": "",
     "author": "",
     "classname": "",
     "copyToTargets": 834777342120174,
-    "date": "2018-37-18 03:09:42",
+    "date": "2018-38-18 03:09:08",
     "description": "",
     "extensionName": "",
     "files": [
         {
-            "id": "4171d38b-183e-42ca-9104-b0b9c4b2c6ac",
+            "id": "e0a97b56-eee9-4f8d-bb1b-304d9bd19011",
             "modelName": "GMExtensionFile",
             "mvc": "1.0",
             "ProxyFiles": [
@@ -32,8 +32,8 @@
             "constants": [
                 
             ],
-            "copyToTargets": 2097160,
-            "filename": "GooglePlayLicensingAsExt.ext",
+            "copyToTargets": 9223372036854775807,
+            "filename": "GooglePlayServicesIAPExtension.ext",
             "final": "",
             "functions": [
                 
@@ -43,11 +43,11 @@
             "order": [
                 
             ],
-            "origname": "extensions\\GooglePlayLicensingAsExt.ext",
+            "origname": "extensions\\GooglePlayServicesIAPExtension.ext",
             "uncompress": false
         }
     ],
-    "gradleinject": "\\u000d\\u000acompile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'",
+    "gradleinject": "",
     "helpfile": "",
     "installdir": "",
     "iosProps": true,
@@ -62,8 +62,8 @@
     "maccompilerflags": "",
     "maclinkerflags": "",
     "macsourcedir": "",
-    "packageID": "com.yoyogames.googleplaylicensingextension",
-    "productID": "6C049D182ECD002FCA87540902AF4A74",
+    "packageID": "com.yoyogames.googleplayservicesiap",
+    "productID": "B71440EFE2AD842048FFF72164D464DD",
     "sourcedir": "",
     "tvosProps": false,
     "tvosSystemFrameworkEntries": [
@@ -76,5 +76,5 @@
     "tvosmaccompilerflags": "",
     "tvosmaclinkerflags": "",
     "tvosplistinject": "",
-    "version": "2.3.0"
+    "version": "1.0.2"
 }

@@ -13,7 +13,7 @@
     "androidProps": true,
     "androidactivityinject": "",
     "androidclassname": "GooglePlayServicesExtension",
-    "androidinject": "<activity android:name=\"com.google.android.gms.ads.AdActivity\" android:configChanges=\"keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize\" \/>\\u000a\\u000d<meta-data android:value=\"true\" android:name=\"YYGoogleCloudSavingEnabled\" \/>",
+    "androidinject": "<activity android:name=\"com.google.android.gms.ads.AdActivity\" android:configChanges=\"keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize\" \/>\\u000d\\u000a<meta-data android:value=\"true\" android:name=\"YYGoogleCloudSavingEnabled\" \/>",
     "androidmanifestinject": "",
     "androidsourcedir": "",
     "author": "",
@@ -497,7 +497,7 @@
             "uncompress": false
         }
     ],
-    "gradleinject": "\\u0009\\u0009 compile 'com.google.android.gms:play-services-games:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-ads:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-plus:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-gcm:11.8.0'\\u000d\\u000a   compile 'com.google.android.gms:play-services-auth:11.8.0'\\u000d\\u000a\\u000d\\u000a\\u0009\\u000d\\u000a}\\u000d\\u000arepositories {   \\u000d\\u000a        maven { url \"https:\/\/maven.google.com\" }\\u000d\\u000a}\\u000d\\u000adependencies {\\u000d\\u000a",
+    "gradleinject": "\\u0009\\u0009 compile 'com.google.android.gms:play-services-games:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-ads:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-plus:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-gcm:11.8.0'\\u000a\\u000d   compile 'com.google.android.gms:play-services-auth:11.8.0'\\u000a\\u000d\\u000a\\u000d\\u0009\\u000a\\u000d}\\u000a\\u000drepositories {   \\u000a\\u000d        maven { url \"https:\/\/maven.google.com\" }\\u000a\\u000d}\\u000a\\u000ddependencies {\\u000a\\u000d",
     "helpfile": "",
     "installdir": "",
     "iosProps": false,
@@ -561,7 +561,7 @@
             "weakReference": false
         }
     ],
-    "iosplistinject": "<key>NSAppTransportSecurity<\/key>\\u000a\\u000d<dict>\\u000a\\u000d    <key>NSAllowsArbitraryLoads<\/key>\\u000a\\u000d    <true\/>\\u000a\\u000d    <key>NSAllowsArbitraryLoadsForMedia<\/key>\\u000a\\u000d    <true\/>\\u000a\\u000d    <key>NSAllowsArbitraryLoadsInWebContent<\/key>\\u000a\\u000d    <true\/>\\u000a\\u000d<\/dict>",
+    "iosplistinject": "<key>NSAppTransportSecurity<\/key>\\u000d\\u000a<dict>\\u000d\\u000a    <key>NSAllowsArbitraryLoads<\/key>\\u000d\\u000a    <true\/>\\u000d\\u000a    <key>NSAllowsArbitraryLoadsForMedia<\/key>\\u000d\\u000a    <true\/>\\u000d\\u000a    <key>NSAllowsArbitraryLoadsInWebContent<\/key>\\u000d\\u000a    <true\/>\\u000d\\u000a<\/dict>",
     "license": "Free to use, also for commercial games.",
     "maccompilerflags": "",
     "maclinkerflags": "",

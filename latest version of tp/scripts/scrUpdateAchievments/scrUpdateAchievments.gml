@@ -195,6 +195,27 @@ if ( OneFiftyFall = 0 and global.achiev_OneFiftyFall = 1 ){
 
 
 
+/// Update all high scores
+// Classic 
+	event_user(0);
+
+// Arcade
+	event_user(1);
+
+// Timer
+	event_user(2);
+	
+// Target
+	event_user(3);
+	
+//fall 
+	event_user(4);
+	
+	
+
+
+
+
 
 
 
