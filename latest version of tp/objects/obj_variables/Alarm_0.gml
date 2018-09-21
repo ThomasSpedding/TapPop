@@ -1,0 +1,1 @@
+GoogleMobileAds_LoadInterstitial("ca-app-pub-7573928502398857/6330319184");

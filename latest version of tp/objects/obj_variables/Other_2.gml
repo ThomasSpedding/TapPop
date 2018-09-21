@@ -1,3 +1,10 @@
+scrCamera();
+
+view_set_hport(view_camera[0],global.dgh);
+view_set_wport(view_camera[0],global.dgw);
+
+
+
 if (file_exists("saveData.ini")){
 	file_delete("saveData.ini");
 }
@@ -38,16 +45,16 @@ ini_close();
 //window_set_fullscreen(true);
 
 //window_set_size(display_get_width(),display_get_height());
-scrCamera();
 
 
 
 
 
-GooglePlayServices_Init();
+
+//GooglePlayServices_Init();
 
 
-achievement_login();
+//achievement_login();
 
 
 

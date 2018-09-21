@@ -1,6 +1,6 @@
-//GoogleMobileAds_Init("ca-app-pub-3940256099942544/8691691433");  //Test
-GoogleMobileAds_Init("ca-app-pub-7573928502398857~8312106074");	//Interstitial
-//GoogleMobileAds_Init("ca-app-pub-7573928502398857/6689697247");
+//GoogleMobileAds_UseTestAds(1,"04E69E114EA2693CF84BE2E54C84CD07");
+//GoogleMobileAds_Init("ca-app-pub-3940256099942544/8691691433","ca-app-pub-7573928502398857~8312106074");  //Test
+GoogleMobileAds_Init("ca-app-pub-7573928502398857/6330319184","ca-app-pub-7573928502398857~8312106074");   //Interstitial
 
 
 //GoogleMobileAds_AddBanner("ca-app-pub-3940256099942544/6300978111", GoogleMobileAds_Banner);  //Test

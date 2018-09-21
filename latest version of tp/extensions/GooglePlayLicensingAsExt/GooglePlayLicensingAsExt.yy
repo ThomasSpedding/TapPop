@@ -1,5 +1,5 @@
 {
-    "id": "6d0a88f2-4211-4f44-a763-e4ee1d516774",
+    "id": "6e1ebf76-fb6f-4f6b-9760-265d7b5bd8dd",
     "modelName": "GMExtension",
     "mvc": "1.0",
     "name": "GooglePlayLicensingAsExt",
@@ -18,12 +18,12 @@
     "author": "",
     "classname": "",
     "copyToTargets": 834777342120174,
-    "date": "2018-37-18 03:09:42",
+    "date": "2018-24-21 02:09:55",
     "description": "",
     "extensionName": "",
     "files": [
         {
-            "id": "4171d38b-183e-42ca-9104-b0b9c4b2c6ac",
+            "id": "6e87fa50-cde0-4d50-894a-878ae471c4f5",
             "modelName": "GMExtensionFile",
             "mvc": "1.0",
             "ProxyFiles": [

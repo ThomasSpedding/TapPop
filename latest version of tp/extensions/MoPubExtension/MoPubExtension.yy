@@ -211,7 +211,17 @@
             "init": "",
             "kind": 4,
             "order": [
-                
+                "b32b2955-87f1-4ddd-a5b1-d9d021a95ad2",
+                "75991594-8b8b-47a0-a4a6-4e6e0426b7be",
+                "5e864263-2820-4513-b878-ab6279c1b3a5",
+                "cdab26ff-b2ea-4df1-b8f3-489e7ab4609a",
+                "e15900e0-fa14-4807-b516-af0c11c2ec55",
+                "c637776d-cb4a-4b75-befd-c7f321f60d53",
+                "91be972b-cf2d-4326-8aac-919201b752a8",
+                "5c910313-6bf2-4f55-bc79-707d90a91f10",
+                "2d5a2b06-147f-4941-95a9-553adcbeee16",
+                "43cdaec6-7811-4371-a56e-c7cef8fea0f2",
+                "25e4a74f-97f5-4732-b5aa-4ac540994ff0"
             ],
             "origname": "extensions\\MoPubiOS.ext",
             "uncompress": false
