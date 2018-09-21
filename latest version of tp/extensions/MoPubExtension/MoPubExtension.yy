@@ -15,7 +15,7 @@
     "androidProps": true,
     "androidactivityinject": "",
     "androidclassname": "MoPubExt",
-    "androidinject": "<activity\\u000d\\u000a            android:name=\"com.mopub.mobileads.MoPubActivity\"\\u000d\\u000a            android:configChanges=\"keyboardHidden|orientation|screenSize\"\\u000d\\u000a\/>\\u000d\\u000a\\u000d\\u000a<activity\\u000d\\u000a            android:name=\"com.mopub.mobileads.MraidActivity\"\\u000d\\u000a            android:configChanges=\"keyboardHidden|orientation|screenSize\"\\u000d\\u000a\/>\\u000d\\u000a\\u000d\\u000a<activity\\u000d\\u000a            android:name=\"com.mopub.common.MoPubBrowser\"\\u000d\\u000a            android:configChanges=\"keyboardHidden|orientation|screenSize\"\\u000d\\u000a\/>\\u000d\\u000a  <activity           android:name=\"com.mopub.mobileads.MraidVideoPlayerActivity\"\\u000d\\u000a            android:configChanges=\"keyboardHidden|orientation|screenSize\" \/>",
+    "androidinject": "<activity\\u000a\\u000d            android:name=\"com.mopub.mobileads.MoPubActivity\"\\u000a\\u000d            android:configChanges=\"keyboardHidden|orientation|screenSize\"\\u000a\\u000d\/>\\u000a\\u000d\\u000a\\u000d<activity\\u000a\\u000d            android:name=\"com.mopub.mobileads.MraidActivity\"\\u000a\\u000d            android:configChanges=\"keyboardHidden|orientation|screenSize\"\\u000a\\u000d\/>\\u000a\\u000d\\u000a\\u000d<activity\\u000a\\u000d            android:name=\"com.mopub.common.MoPubBrowser\"\\u000a\\u000d            android:configChanges=\"keyboardHidden|orientation|screenSize\"\\u000a\\u000d\/>\\u000a\\u000d  <activity           android:name=\"com.mopub.mobileads.MraidVideoPlayerActivity\"\\u000a\\u000d            android:configChanges=\"keyboardHidden|orientation|screenSize\" \/>",
     "androidmanifestinject": "",
     "androidsourcedir": "",
     "author": "",
@@ -227,7 +227,7 @@
             "uncompress": false
         }
     ],
-    "gradleinject": "compile('com.mopub:mopub-sdk:4.7.0@aar') {\\u000d\\u000a            transitive = true\\u000d\\u000a        }",
+    "gradleinject": "compile('com.mopub:mopub-sdk:4.7.0@aar') {\\u000a\\u000d            transitive = true\\u000a\\u000d        }",
     "helpfile": "",
     "installdir": "",
     "iosProps": true,
@@ -355,7 +355,7 @@
     "iosThirdPartyFrameworkEntries": [
         
     ],
-    "iosplistinject": "<key>NSCalendarsUsageDescription<\/key>\\u000d\\u000a<string>Some ad content may access calendar<\/string>\\u000d\\u000a<key>NSAppTransportSecurity<\/key>\\u000d\\u000a    <dict>\\u000d\\u000a        <key>NSAllowsArbitraryLoads<\/key>\\u000d\\u000a        <true\/>\\u000d\\u000a        <key>NSAllowsArbitraryLoadsForMedia<\/key>\\u000d\\u000a        <true\/>\\u000d\\u000a        <key>NSAllowsArbitraryLoadsInWebContent<\/key>\\u000d\\u000a        <true\/>\\u000d\\u000a    <\/dict>",
+    "iosplistinject": "<key>NSCalendarsUsageDescription<\/key>\\u000a\\u000d<string>Some ad content may access calendar<\/string>\\u000a\\u000d<key>NSAppTransportSecurity<\/key>\\u000a\\u000d    <dict>\\u000a\\u000d        <key>NSAllowsArbitraryLoads<\/key>\\u000a\\u000d        <true\/>\\u000a\\u000d        <key>NSAllowsArbitraryLoadsForMedia<\/key>\\u000a\\u000d        <true\/>\\u000a\\u000d        <key>NSAllowsArbitraryLoadsInWebContent<\/key>\\u000a\\u000d        <true\/>\\u000a\\u000d    <\/dict>",
     "license": "Free to use, also for commercial games.",
     "maccompilerflags": "-fobjc-arc",
     "maclinkerflags": "",
