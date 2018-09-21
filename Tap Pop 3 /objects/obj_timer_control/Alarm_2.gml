@@ -1,0 +1,2 @@
+instance_create_layer(random(room_width), irandom_range(room_height* 0.15, room_height-300), "Instances_2", choose(obj_poppable_add5, obj_poppable_add5, obj_slow_down_time, obj_poppable_take5));
+alarm[2] = irandom_range(spawnspeed1*3, spawnspeed1*4);
