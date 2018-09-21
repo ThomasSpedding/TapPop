@@ -894,25 +894,6 @@
             }
         },
         {
-            "Key": "385e16b9-ee4a-49b0-a5bf-3ad91f86ce47",
-            "Value": {
-                "id": "056176a9-46be-4dca-aef9-1088d762b9ca",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "extensions\/MoPubExtension\/MoPubExtension.yy",
-                "resourceType": "GMExtension"
-            }
-        },
-        {
             "Key": "39d364bb-1a54-4aeb-b519-6df641c69aac",
             "Value": {
                 "id": "d9460f51-9ef5-42f6-b4e6-f629d699caa2",
@@ -1727,25 +1708,6 @@
                 ],
                 "resourcePath": "views\/6dc5d0c2-f4e0-452a-a58d-ec026e727dbd.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "6e1ebf76-fb6f-4f6b-9760-265d7b5bd8dd",
-            "Value": {
-                "id": "ba9bf73f-7454-44f3-ab35-37eae1856d3c",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "extensions\/GooglePlayLicensingAsExt\/GooglePlayLicensingAsExt.yy",
-                "resourceType": "GMExtension"
             }
         },
         {
@@ -3972,25 +3934,6 @@
             }
         },
         {
-            "Key": "f90e051e-c7b2-435d-9fad-7d7a6debb164",
-            "Value": {
-                "id": "58ce9b8e-ca14-447b-a415-8f50b0dd94a0",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "extensions\/GooglePlayServicesExtension\/GooglePlayServicesExtension.yy",
-                "resourceType": "GMExtension"
-            }
-        },
-        {
             "Key": "f93b77ab-cfdb-4548-a081-0648e53f40f6",
             "Value": {
                 "id": "da56b233-340e-43b0-a617-bd62196aae6e",
@@ -4007,25 +3950,6 @@
                 ],
                 "resourcePath": "sprites\/spr_target\/spr_target.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "faddab6b-7766-4f66-a361-666ca54b0dd5",
-            "Value": {
-                "id": "8f30512e-e0f9-4cb0-9b8c-d06a38d0abec",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "extensions\/GoogleAnalyticsExt\/GoogleAnalyticsExt.yy",
-                "resourceType": "GMExtension"
             }
         },
         {

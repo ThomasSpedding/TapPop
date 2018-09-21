@@ -1,7 +1,7 @@
 ///@descr Classic Mode 
 
-if ( os_type = os_android ){
-		if achievement_available(){
-			achievement_post_score("CgkI4vO1isoDEAIQCQ",obj_variables.h_score);
-		}
-	}
+//if ( os_type = os_android ){
+//		if achievement_available(){
+//			achievement_post_score("CgkI4vO1isoDEAIQCQ",obj_variables.h_score);
+//		}
+//	}
